@@ -39,5 +39,20 @@
     <ClCompile Include="164p1q.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="178p2q.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="178p4q.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="179p5q.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="jpgexam.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="star.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+
 int main()
 {
 	int age = 0;
@@ -21,7 +21,7 @@ int main()
 	return 0;
 }
 
-*/
+
 
 
 

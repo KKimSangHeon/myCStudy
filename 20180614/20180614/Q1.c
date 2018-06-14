@@ -11,7 +11,7 @@ int main(void)
 
 	/* arrval  배열 내용을 buf배열에 복사하는 코드 추가  */
 
-	for (idx = 0; idx < 3; idx++)
+	for (idx = 0; idx < 20; idx++)
 		buf[idx] = arrval[idx];
 
 	for (idx = 0; idx < 3; idx++)

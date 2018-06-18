@@ -2,6 +2,7 @@
 
 void reverse(int ** a, int ** b);
 
+/*
 int main(void)
 {
 	int temp = 5;
@@ -26,3 +27,5 @@ void reverse(int ** a, int ** b)
 	*b = *a;
 	*a = temp;
 }
+
+*/

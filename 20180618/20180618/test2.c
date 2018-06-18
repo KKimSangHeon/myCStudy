@@ -1,3 +1,4 @@
+/*
 #include<stdio.h>
 int SumOfArr(int (*pa)[4],int row, int column);
 int main()
@@ -33,3 +34,5 @@ int SumOfArr(int (*pa)[4], int row, int column)
 
 	return res;
 }
+
+*/

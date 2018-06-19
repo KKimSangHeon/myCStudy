@@ -16,7 +16,7 @@ string timeConversion(string s) {
 	if (found != std::string::npos)
 	{
 		iHour += 12;
-		hour = itoa(iHour);
+		hour = to_string(iHour);
 		for (int i = 0; i<hour.length(); i++)
 		{
 			s[i] = hour[i];

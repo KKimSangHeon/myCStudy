@@ -120,7 +120,7 @@
   <ItemGroup>
     <ClCompile Include="temp.cpp" />
     <ClCompile Include="temp2.cpp" />
-    <ClCompile Include="temp3.cpp" />
+    <ClCompile Include="tokenizer.cpp" />
     <ClCompile Include="test1.c" />
     <ClCompile Include="test2.c" />
     <ClCompile Include="test3.c" />

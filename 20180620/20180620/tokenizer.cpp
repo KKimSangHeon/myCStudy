@@ -1,3 +1,5 @@
+/*
+
 #include <iostream>
 #include <cstring>
 #include <sstream>
@@ -106,3 +108,5 @@ void parsingMeta(char * str)
 	cout << width<<"x"<<height<<", "<< duration<<", "<< alphaChecker<<"\n";
 
 }
+
+*/

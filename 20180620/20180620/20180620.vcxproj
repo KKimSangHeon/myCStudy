@@ -118,6 +118,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="multitap.cpp" />
     <ClCompile Include="temp.cpp" />
     <ClCompile Include="temp2.cpp" />
     <ClCompile Include="RCP.cpp" />

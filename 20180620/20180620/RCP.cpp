@@ -14,6 +14,7 @@ static const int SCISSOR = 1;
 static const int ROCK = 2;
 static const int PAPER = 3;
 using namespace std;
+/*
 int main()
 {   //프로그램의 시작부 
 	int player[5];
@@ -79,3 +80,4 @@ int main()
 	printf("%d", winner);
 	return 0;
 }
+*/
